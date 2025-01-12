@@ -58,7 +58,7 @@ semantic_search_resume = MDXSearchTool(mdx='/content/drive/MyDrive/Resumes/amarj
 #     model="gemini-1.5-flash",
 #     temperature=0.7,
 #     base_url="https://generativelanguage.googleapis.com",
-#     api_key="AIzaSyB9m_Emt2fPHRtziY4ERWpWsw5_ahcr_b4"
+#     api_key="Wsw5_ahcr_b4"
 # )
 
 llm=ChatGoogleGenerativeAI(model="gemini-1.5-flash",
